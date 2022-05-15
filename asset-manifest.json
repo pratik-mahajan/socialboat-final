@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socialboat-final/static/css/main.e7720ab7.css",
+    "main.js": "/socialboat-final/static/js/main.41a93917.js",
+    "index.html": "/socialboat-final/index.html",
+    "main.e7720ab7.css.map": "/socialboat-final/static/css/main.e7720ab7.css.map",
+    "main.41a93917.js.map": "/socialboat-final/static/js/main.41a93917.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.41a93917.js"
+  ]
+}
